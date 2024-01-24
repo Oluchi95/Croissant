@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: whitesmoke;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar a{
+    color: white;
+}
+
+.mail{
+    text-align: center;
+}
+
+.slide{
+    width: 100%;
+    height: auto;
+    margin-top: 0px;
+}
